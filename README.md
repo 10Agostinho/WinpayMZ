@@ -1,0 +1,2 @@
+# WinpayMZ
+Lucro
