@@ -1,2 +1,1 @@
-# WinpayMZ
-Lucro
+#  PlantaRenda
